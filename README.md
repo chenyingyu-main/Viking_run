@@ -24,6 +24,8 @@ Introduction:
 10. 角色在靜止、奔跑、跳躍的動畫中自由切換
 11. 遊戲畫面有按鈕能回到菜單
 12. 難度中（障礙物偏多）
+（如果助教要從 GitHub 找 code 的話，會放在 /Asset/ Script/）
+
 
 How To Play My Game:
 1. 按Ａ、Ｄ向左右移動（操控角色吃鑽石）
